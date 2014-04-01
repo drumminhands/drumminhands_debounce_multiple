@@ -1,4 +1,4 @@
-/* 
+/*  
   Modified by combining these tutorials
     Blink without Delay  http://www.arduino.cc/en/Tutorial/BlinkWithoutDelay
     State change detection (edge detection) http://arduino.cc/en/Tutorial/ButtonStateChange
